@@ -7,6 +7,7 @@ import WhoAreWe from '../components/WhoAreWe'
 import Team from '../components/Team'
 import Reservation from '../components/Reservation'
 import Footer from '../components/Footer'
+import Testimonials from '../components/Testimonials'
 
 const Home = () => {
   return (
@@ -17,6 +18,7 @@ const Home = () => {
         <Menu/>
         <WhoAreWe/>
         <Team/>
+        <Testimonials/>
         <Reservation/>
         <Footer/>
     </>

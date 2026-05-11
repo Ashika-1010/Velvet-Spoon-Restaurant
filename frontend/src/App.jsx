@@ -5,6 +5,7 @@ import Home from './pages/Home'
 import NotFound from './pages/NotFound'
 import Success from './pages/Success'
 import "./App.css"
+import ScrollToTop from './components/scrollToTop'
 
 const App = () => {
   return <Router>
@@ -14,6 +15,7 @@ const App = () => {
       <Route path='*' element={<NotFound/>}/>
     </Routes>
     <Toaster/>
+    <ScrollToTop/>
   </Router>
 }
 
