@@ -30,7 +30,7 @@
             {
                 "id": 2,
                 "image": "./dinner2.png",
-                "title": "CITRUS CURED SALMON",
+                "title": "THAI MOON CURRY",
                 "category": "Dinner"
             },
             {
@@ -68,12 +68,18 @@
                 "image": "./dinner6.png",
                 "title": "GRILLED FISH",
                 "category": "Dinner"
+            },
+            {
+                "id": 9,
+                "image": "./lunch2.png",
+                "title": "THE ROYAL HARVEST BOWL",
+                "category": "Lunch"
             }
         ],
         "team": [
             {
                 "id": 1,
-                "image": "./founder.jpeg",
+                "image": "./founder.png",
                 "name": "RITESH SHETTY",
                 "designation": "Founder"
             },
